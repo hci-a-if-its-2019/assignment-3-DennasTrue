@@ -42,6 +42,11 @@
 > If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
 > so we have everything in one place.
 > Note that the evaluation script must include exactly what you plan to say to the participants.
+> 1. What do you think about the the novel search function?
+> 2. Do you have opinion about genre search function?
+> 3. Should be sub genre included in genre search?
+> 4. What function do you think should be removed?
+> 5. Do you have any suggestion?
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
