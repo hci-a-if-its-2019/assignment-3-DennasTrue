@@ -34,7 +34,7 @@
 #### b. Description of Participant 2
  - Defni Wendie
  - Mid schooler
- - 13 years Old
+ - 15 years Old
  - Female
 
 ### 2. Evaluation Script
@@ -59,37 +59,44 @@
 
 #### a. Transcript with Participant 1
  1. **You**: Can you please try the prototype I prepared ?
- 1. **Participant**:Sure.
- 1. **You**: After some testing,what do you think about the new function?
- 1. **Participant**: It's decent,It's same as average function within same website.
- 1. **You**: Lorem Ipsum is simply dummy text of the printing an
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog. 
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 2. **Participant**:Sure.
+ 3. **You**: After some testing,what do you think about the new function?
+ 4. **Participant**: It's decent,It's same as average function within same website.Overall,I have no problem with it
+ 5. **You**:I see I will note that,Do you have opinion about this?
+ 6. **Participant**: Except it's very common type of filter search,It's basically simple version of usual genre search.
+ 7. **You**: I understand, Then I have question Should I include sub genre in the function?
+ 8. **Participant**: No there is too many sub genre,It will be too much hassle to search with that.
+ 9. **You**:Then do you have function you think need to be removed?
+ 10. **Participant**: There is none.
+ 11. **You**:Last question,do you have any suggestion about this function?
+ 12. **Participant**: There is none.
 
 
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **You**: Can you please try the prototype I prepared ?
+ 2. **Participant**:Sure.
+ 3. **You**: After some testing,what do you think about the new function?
+ 4. **Participant**: It's bad,especially for beginner like me who never use this kind of function you should made it more simple than right now
+ 5. **You**:I see I will note that,Do you have opinion about this?
+ 6. **Participant**: I see the function doing it's job,but overall you need the type genre which some beginner found it's hard since they didn't remember every genre,yu should made it search based with genre instead.
+ 7. **You**: I understand, Then I have question Should I include sub genre in the function?
+ 8. **Participant**: No,If you do that it will be a trouble . Since it's too much work for a little reward.
+ 9. **You**:Then do you have function you think need to be removed?
+ 10. **Participant**:Add genre should be removed,and we can choose 3 or 4 genre at once from beginning.
+ 11. **You**:Last question,do you have any suggestion about this function?
+ 12. **Participant**: You should make some genre list on the side so anyone know what word they need to use for beginner.
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+#### OBSERVATION 
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Participant 2 line 4
+ - **Feedback**: It's bad for beginner
+ - **Incidence**:There is none
+ - **Reason**: Search by genre based can't result nothing by typo or they use different words but same meaning.
+ - **Resolution**:Made it genre based search,and you just simply choose from many genre list  and run with some of it.
  
 
 
