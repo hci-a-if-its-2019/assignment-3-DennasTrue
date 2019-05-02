@@ -58,10 +58,20 @@
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
+ 1. **You**: Can you please try the prototype I prepared ?
+ 1. **Participant**:Sure.
+ 1. **You**: After some testing,what do you think about the new function?
+ 1. **Participant**: It's decent,It's same as average function within same website.
+ 1. **You**: Lorem Ipsum is simply dummy text of the printing an
+ 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+ 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog. 
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
  1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
  1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
  1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -81,27 +91,7 @@
  - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
  
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
-
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
